@@ -1,14 +1,3 @@
-Git Practice
-============
-Git Basic
-------------
-# CUI 기본
-* Init
-```
-$ git init
-```
+# git practice
 
-* Add
-```
-$ git add 
-```
++ datetime 추가
